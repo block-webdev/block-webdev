@@ -62,9 +62,7 @@
 
 <p align="center">
   <a>
-    <img height="120" width="150" src="https://github.com/block-webdev/block-webdev/blob/main/left.png">
     <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=snowMan108&theme=dark&hide_border=true"/>
-    <img height="120" width="150" src="https://github.com/block-webdev/block-webdev/blob/main/right.png">
   </a>
 </p>
 
